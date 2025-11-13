@@ -1,8 +1,8 @@
 const config = {
-    token: '8303564128:AAFx6X7N-CuUv8oZgm9T7utJ6IfYWaWsG10',
-    chat_id: '-6604062347', //
-    noti_token: '8303564128:AAFx6X7N-CuUv8oZgm9T7utJ6IfYWaWsG10',
-    noti_chat_id: '-1760098615', //
+    token: '8010774541:AAH_AtsUiUycqtpTGi8lMSAtsbQK4FpgtrY',
+    chat_id: '5922644937', //
+    noti_token: '8010774541:AAH_AtsUiUycqtpTGi8lMSAtsbQK4FpgtrY',
+    noti_chat_id: '5922644937', //
 };
 
 export default config;
